@@ -16,3 +16,6 @@ Neden IT Hızlı Araç Kiti?
 Günlük IT operasyonlarında zaman kaybetmek yerine, enerjinizi daha önemli görevlere ayırın. IT Hızlı Araç Kiti ile işlemlerinizi hızlandırın, daha az uğraşarak daha fazlasını başarın.
 
 Siz de işlerinizi kolaylaştırmak istiyorsanız hemen deneyin!
+
+Dilerseniz, kodu kopyalayıp, not defterine yapıştırabilirsiniz. Farklı kaydet ile xxx.bat dosyası olarak kendi bat dosyanızı oluşturabilirsiniz.
+
